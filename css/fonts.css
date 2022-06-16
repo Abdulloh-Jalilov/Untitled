@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/OpenSans-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/OpenSans-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Tinos';
+    src: url(../fonts/Tinos-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Cookie';
+    src: url(../fonts/Cookie-Regular.ttf);
+}
